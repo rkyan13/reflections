@@ -18,10 +18,15 @@ organized? How would branches help?
 
 
 How do the diagrams help you visualize the branch structure?
-	ksw answr: habbada after visulizing only I understood everything
+	ksw answrer: habbada after visulizing only I understood everything
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+	ksw answer: Merging alwasy creates a new commit on the branch that you are commiting onto
+	The changes from both branches are applied chronologically. This will could result in commits from both branches being interleaved
+	Note: you have-to have-to have-to Checkout the branch that you want to merge onto. Then give the branches you want to merge as arguments
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+	ksw: answer automatic meging does kacha muchi merging
+	manual merging gives us a change to see the changes and then merge
