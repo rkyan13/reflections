@@ -1,17 +1,24 @@
 What happens when you initialize a repository? Why do you need to do it?
-.git folder is created
+	ksw answer: .git folder is created
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
-add what you want tos taging area. Also add files 1 by 1 to make logical commits
+	ksw answer: add what you want tos taging area. Also add files 1 by 1 to make logical commits
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+	ksw answer:
+	Such a simple concept. 3 different areas
+	WorkingDirectory-> StagingArea -> Repository
+	So simple yet so powerful to clear all the confusion in my mind
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+	ksw answer: for creating new features
+
 
 How do the diagrams help you visualize the branch structure?
+	ksw answr: habbada after visulizing only I understood everything
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
