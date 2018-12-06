@@ -31,3 +31,6 @@ could break something?
 Now that you have your workspace set up, what do you want to try using Git for?
 
     use git & github to manage office projects
+
+#Experimental changes to lesson1 prior to pulling remote master
+#Hello World
